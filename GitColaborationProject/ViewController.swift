@@ -11,8 +11,12 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-     print("ViewController loaded")
+
+     	print("ViewController loaded")
         
+        // Do any additional setup after loading the view.
+        
+        print("View Cntroller loaded by J")
     }
 
 
