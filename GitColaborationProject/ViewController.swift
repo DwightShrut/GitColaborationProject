@@ -20,7 +20,7 @@ class ViewController: UIViewController {
         print("View Cntroller loaded by J")
 		// Никита
         print("ViewController loaded")
-        print("Karamba")
+     print("Karamba")
     }
 
 
