@@ -21,6 +21,8 @@ class ViewController: UIViewController {
 		// Никита
         print("ViewController loaded")
      print("Karamba")
+        // Max retest
+        print("ViewController loaded")
     }
 
 
